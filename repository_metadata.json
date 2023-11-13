@@ -1,0 +1,61 @@
+{
+    "1": {
+        "application": "my app",
+        "contacts": null,
+        "servicenow": null
+    },
+    "2": {
+        "application": "my app",
+        "contacts": {
+            "it-owner": "owner",
+            "key-expert": [
+                "user1",
+                "user2"
+            ],
+            "hosted-env": "cloud",
+            "accessibility": "internet"
+        },
+        "servicenow": {
+            "business-service-name": "gh support"
+        }
+    },
+    "3": {
+        "application": "my app",
+        "contacts": {
+            "it-owner": "owner",
+            "key-expert": [
+                "user1",
+                "user2"
+            ],
+            "hosted-env": "cloud",
+            "accessibility": "internet"
+        },
+        "servicenow": {
+            "business-service-name": "gh support"
+        }
+    },
+    "4": {
+        "application": "Details not available",
+        "contacts": "Details not available",
+        "servicenow": "Details not available"
+    },
+    "5": {
+        "application": null,
+        "contacts": {
+            "it-owner": null,
+            "key-expert": [
+                null
+            ],
+            "hosted-env": null,
+            "accessibility": null
+        },
+        "servicenow": {
+            "business-service-name": null
+        }
+    },
+    "6": {
+        "application": "Details not available",
+        "contacts": "Details not available",
+        "servicenow": "Details not available"
+    }
+}
